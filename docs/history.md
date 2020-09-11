@@ -1,5 +1,12 @@
 # Version History
 
+## 1.0.0-alpha1 (2020-09-11)
+
+
+### Features
+
+* initial generation of library ([6095193](https://www.github.com/bcoe/functions-framework-dotnet-test/commit/6095193e268082b6757625d4aefa3eb49992ccab))
+
 ## 1.0.0-alpha08 (released 2020-07-07)
 
 - Added an in-memory logger provider to the test server
