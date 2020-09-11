@@ -1,5 +1,12 @@
 # Version History
 
+## [1.0.0-alpha2](https://www.github.com/bcoe/functions-framework-dotnet-test/compare/v1.0.0-alpha1...v1.0.0-alpha2) (2020-09-11)
+
+
+### Features
+
+* added an amazing new feature (it is a newline) ([c965946](https://www.github.com/bcoe/functions-framework-dotnet-test/commit/c96594613c01103aec006a4a271f6db819b27eb6))
+
 ## 1.0.0-alpha1 (2020-09-11)
 
 
