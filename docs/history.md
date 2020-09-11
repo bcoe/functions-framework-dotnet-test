@@ -1,5 +1,17 @@
 # Version History
 
+## [1.0.0-alpha3](https://www.github.com/bcoe/functions-framework-dotnet-test/compare/v1.0.0-alpha2...v1.0.0-alpha3) (2020-09-11)
+
+
+### Features
+
+* adding two newlines for gold customer ([731727b](https://www.github.com/bcoe/functions-framework-dotnet-test/commit/731727b5c1e77460cc0a3f4bb51a16ca8a0a22f1))
+
+
+### Bug Fixes
+
+* addressed issue introduced by newline ([3acddd8](https://www.github.com/bcoe/functions-framework-dotnet-test/commit/3acddd842dd24a4034ccadab2f340a72710be640))
+
 ## [1.0.0-alpha2](https://www.github.com/bcoe/functions-framework-dotnet-test/compare/v1.0.0-alpha1...v1.0.0-alpha2) (2020-09-11)
 
 
